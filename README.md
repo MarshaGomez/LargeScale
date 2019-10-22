@@ -1,9 +1,11 @@
 # LargeScale
-Large-Scale and Multi-Structured Databases
-
-## Exercise 0
+Large-Scale and Multi-Structured Databases. 
+This repository have 4 basic exercise on JAVA using Maven. 
 * Download your preferred IDE (include MAVEN) and install it
 * Create a Java Project
+
+## Exercise 0
+
 * Write and Run your First “Hello World!” program.
 
 ## Exercise 1
